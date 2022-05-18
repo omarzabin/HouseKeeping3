@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HouseKeeping</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="price_per_hour">Price Per Hour</string>
+    <string name="enroll">Enroll</string>
+    <string name="choose_the_service_that_you_provide">Choose the service that you provide</string>
+    <string name="chose_the_services_you_need">Chose the services you need</string>
+</resources>
